@@ -1,2 +1,1 @@
-# phonebook
- 
+Phonebook to save contacts as name: number which takes inputs in the terminal.
